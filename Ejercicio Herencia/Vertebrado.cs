@@ -24,6 +24,6 @@ namespace Ejercicio_Herencia
             Console.WriteLine($"Es doméstico: {(EsDomestico ? "Si" : "No")}");
             Console.WriteLine($"Es herbívoro: {(EsHerbivoro ? "Si" : "No")}");
             Console.WriteLine($"Es carnívoro: {(EsCarnivoro ? "Si" : "No")}");
-        }bbb
+        }
     }
 }
